@@ -6,6 +6,7 @@ use Jenssegers\Blade\Blade;
 
 class Welcome extends CI_Controller
 {
+    // Welcome Back
     /**
      * Index Page for this controller.
      *
